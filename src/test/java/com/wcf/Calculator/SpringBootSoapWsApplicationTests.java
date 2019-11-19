@@ -1,4 +1,4 @@
-package com.wcf.weather;
+package com.wcf.Calculator;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
