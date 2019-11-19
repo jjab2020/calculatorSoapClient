@@ -2,7 +2,7 @@
 
 <dl>
 <dt>Links:</dt>
-<dd>..* Guide spring boot soap application (https://spring.io/guides/gs/consuming-web-service/)</dd>
+<dd>> - Revenue was off the chart. Guide spring boot soap application (https://spring.io/guides/gs/consuming-web-service/)</dd>
 <dd>..* Example of soap client (https://drmanalo.github.io/blog/2016/spring-boot-soap-client.html)</dd>
 <dd>..* Example of soap client (https://howtodoinjava.com/spring-boot/spring-soap-client-webservicetemplate)</dd>
 <dd>..* Youtube video (https://www.youtube.com/watch?v=WJg3NUwq6zU)</dd>
