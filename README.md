@@ -11,7 +11,9 @@
 <dd>* Example of soap client (https://codenotfound.com/spring-ws-soapaction-header-example.html)</dd>
 <dd>* URL of calculator Service (http://www.dneonline.com/calculator.asmx?WSDL)</dd>
 <dd>* Tuto spring-boot example (https://www.devglan.com/spring-boot/spring-boot-soap-client)</dd>
+<dd>* example node.js client  https://medium.com/better-programming/how-to-perform-soap-requests-with-node-js-4a9627070eb6</dd>
 </dl>
+
 
 <dl>
   <dt>Author:</dt>
