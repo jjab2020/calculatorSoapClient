@@ -10,6 +10,7 @@
 <dd>* Client Soap calculator (https://blog.sodifrance.fr/spring-boot-comment-consommer-un-web-service-soap-ecrire-un-client-web-service-par-la-pratique-en-15-minutes/)</dd>
 <dd>* Example of soap client (https://codenotfound.com/spring-ws-soapaction-header-example.html)</dd>
 <dd>* URL of calculator Service (http://www.dneonline.com/calculator.asmx?WSDL)</dd>
+<dd>* Tuto spring-boot example (https://www.devglan.com/spring-boot/spring-boot-soap-client)</dd>
 </dl>
 
 <dl>
